@@ -1,0 +1,36 @@
+body {
+  padding: 1rem;
+}
+
+.bank-box {
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  min-height: 1rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1ch;
+  padding: 1ch;
+}
+
+.odds-box {
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  min-height: 1rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1ch;
+  padding: 1ch;
+}
+
+.evens-box {
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  min-height: 1rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1ch;
+  padding: 1ch;
+}
